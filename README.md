@@ -4,18 +4,16 @@
 为撸码加动力
 
 #### 使用效果
+> visual studio
+
 ![](./01.source/showImage.png)
+
 #### 安装教程
+> visual studio
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+【扩展】->【管理扩展】->【联机】->【搜索】->【ClaudiaIDE】->【安装】
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+【工具】->【选项】->【ClaudiaIDE】
 
 #### 参与贡献
 
