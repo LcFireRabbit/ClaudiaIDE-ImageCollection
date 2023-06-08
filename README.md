@@ -13,7 +13,13 @@
 
 【扩展】->【管理扩展】->【联机】->【搜索】->【ClaudiaIDE】->【安装】
 
-【工具】->【选项】->【ClaudiaIDE】
+![](./01.source/ClaudiaIDE.png)
+
+【工具】->【选项】->【ClaudiaIDE】-> 选择对应的设置
+![](./01.source/ClaudiaIDESettings.png)
+
+【替换喜欢的图片】（路径不要有中文）
+![](./01.source/ClaudiaIDESettings2.png)
 
 #### 参与贡献
 
