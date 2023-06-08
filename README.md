@@ -1,7 +1,7 @@
 # ClaudiaIDE-ImageCollection
 
 #### 介绍
-为撸码加动力
+为撸码加动力(图片如有侵权,请联系删除)
 
 #### 使用效果
 > visual studio
@@ -27,3 +27,5 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+
+0.  提供图片

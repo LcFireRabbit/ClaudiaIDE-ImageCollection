@@ -1,0 +1,9 @@
+string path = @"";
+var fileList = System.IO.Directory.GetFiles(path);
+
+for (int i = 1; i <= fileList.Length; i++)
+{
+     var dicPath = Path.GetDirectoryName(fileList[i-1]);
+     var fileExtension = Path.GetExtension(fileList[i - 1]);
+     File.Move(fileList[i - 1], Path.Combine(dicPath, $"0{i}{fileExtension}"));
+}
